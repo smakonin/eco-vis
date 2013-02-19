@@ -13,7 +13,7 @@ Introduction
 -------------
 The **eco-vis** project is a number of graphic canvases with a common framework to visualize consumption data. This area of research is usually labelled as informative displays, ambient displays, and/or eco-feedback.
 
-For more infomation on this project pealse read the [https://raw.github.com/smakonin/APMR/master/ecovis_paper.pdf](ecovis_paper.pdf) file in this project's dirtectory. he most
+For more infomation on this project pealse read the [https://raw.github.com/smakonin/eco-vis/master/ecovis_paper.pdf](ecovis_paper.pdf) file in this project's dirtectory. he most
 up-to-date source code can always be found on GitHub at: https://github.com/smakonin/eco-vis/.
 
 To add canvases and/or to compile EoC you need to have a Processing 1.5.1 installed on your computer. You can download Proccesing from: http://processing.org/.
