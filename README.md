@@ -6,17 +6,18 @@ All rights reserved.
 
 License
 --------
-This project is here by released under the COMMON DEVELOPMENT 
-AND DISTRIBUTION LICENSE (CDDL).
+This project is here by released under the [COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL)](https://raw.github.com/smakonin/eco-vis/master/LICENSE).
 
 Introduction
 -------------
-The **eco-vis** project is a number of graphic canvases with a common framework to visualize consumption data. This area of research is usually labelled as informative displays, ambient displays, and/or eco-feedback.
+The **eco-vis** project is a number of graphic canvases with a common framework to visualize consumption data. This 
+area of research is usually labelled as informative displays, ambient displays, and/or eco-feedback.
 
 For more infomation on this project pealse read the [https://raw.github.com/smakonin/eco-vis/master/ecovis_paper.pdf](ecovis_paper.pdf) file in this project's dirtectory. he most
 up-to-date source code can always be found on GitHub at: https://github.com/smakonin/eco-vis/.
 
-To add canvases and/or to compile EoC you need to have a Processing 1.5.1 installed on your computer. You can download Proccesing from: http://processing.org/.
+To add canvases and/or to compile EoC you need to have a Processing 1.5.1 installed on your computer. You can 
+download Proccesing from: http://processing.org/.
 
 If you use eco-vis for All (or most) of these canvases have been optimozed for 1920x1200 
 (16:10, fullscreen)  displays.
