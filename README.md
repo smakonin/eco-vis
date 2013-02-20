@@ -26,7 +26,7 @@ Citations
 
 If you make use of this project for your research please cite the following refernce:
 
-* Stephen Makonin, Maryam H Kashani and Lyn Bartram. "The Affect of Lifestyle Factors on Eco-Visualization Design." In: Computer Graphics International 2012 (CGI 2012).
+* Stephen Makonin, Maryam H Kashani and Lyn Bartram, "The Affect of Lifestyle Factors on Eco-Visualization Design," in Computer Graphics International (CGI) 2012.
 
 Last Word
 ----------
